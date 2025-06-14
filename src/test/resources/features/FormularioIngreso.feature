@@ -6,4 +6,4 @@ Feature: Llenado de furmulario de Ingreso de denuncia
   @smoke
   Scenario: Llenar formulario correctamente
     When El usuario llena el formulario correctamente
-    Then El formulario se envia correctamente y se vi
+    Then El formulario se envia correctamente
